@@ -45,6 +45,6 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="lzlscx@gmail.com"><img src="https://img.shields.io/badge/-lzlscx@outlook.com-0078D4?style=flat&logo=microsoft-outlook&logoColor=white"/></a>
+<!-- <a href="lzlscx@outlook.com"><img src="https://img.shields.io/badge/-lzlscx@outlook.com-0078D4?style=flat&logo=microsoft-outlook&logoColor=white"/></a> -->
 <a href="lzlscx@gmail.com"><img src="https://img.shields.io/badge/-lzlscx@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
